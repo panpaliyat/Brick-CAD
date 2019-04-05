@@ -30,7 +30,7 @@ Below is the class diagram which demonstrate the memento design pattern in brick
 
 [Memento]: /images/Memento.png "Memento"
 
-This is how the overall structure of the system and sample screens of the running system
+This is how the overall structure of the system and sample screens of the running system looks like
 
 ![alt text][MVCApp]
 
